@@ -1,0 +1,32 @@
+# Android Studio
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# Kotlin
+.kotlin/
+
+# Native / generated
+.externalNativeBuild/
+.cxx/
+
+# APK / AAB
+*.apk
+*.aab
+
+# Firebase
+google-services.json
+
+# OS
+.DS_Store
+Thumbs.db
+**/release/
